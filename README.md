@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm TanxChen</h3>
+<h3 align="center">Hi 👋, I'm Tanx</h3>
 
 <!--
 **ryanxchen/ryanxchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
